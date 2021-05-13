@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Flappy San", "Game Flappy San\Game Flappy San.csproj", "{C5A8087C-E131-452C-BF47-F4574C8B06B7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{AF7F9618-3DDB-413A-99CF-413FF5873A48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5A8087C-E131-452C-BF47-F4574C8B06B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A8087C-E131-452C-BF47-F4574C8B06B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A8087C-E131-452C-BF47-F4574C8B06B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A8087C-E131-452C-BF47-F4574C8B06B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF7F9618-3DDB-413A-99CF-413FF5873A48}.Debug|Any CPU.ActiveCfg = Debug
+		{AF7F9618-3DDB-413A-99CF-413FF5873A48}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9348013-D33F-4E57-A7EF-5DCA1FCC35EB}
+	EndGlobalSection
+EndGlobal

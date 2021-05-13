@@ -1,0 +1,65 @@
+D:\LTGD\Game Flappy San\Game Flappy San\bin\Debug\Game Flappy San.exe.config
+D:\LTGD\Game Flappy San\Game Flappy San\bin\Debug\Game Flappy San.exe
+D:\LTGD\Game Flappy San\Game Flappy San\bin\Debug\Game Flappy San.pdb
+D:\LTGD\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.csprojAssemblyReference.cache
+D:\LTGD\Game Flappy San\Game Flappy San\obj\Debug\Game_Flappy_San.Demo.resources
+D:\LTGD\Game Flappy San\Game Flappy San\obj\Debug\Game_Flappy_San.Properties.Resources.resources
+D:\LTGD\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.csproj.GenerateResource.cache
+D:\LTGD\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.csproj.CoreCompileInputs.cache
+D:\LTGD\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.exe
+D:\LTGD\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.pdb
+C:\Users\ACER\Desktop\Game Flappy San\Game Flappy San\bin\Debug\Game Flappy San.exe.config
+C:\Users\ACER\Desktop\Game Flappy San\Game Flappy San\bin\Debug\Game Flappy San.exe
+C:\Users\ACER\Desktop\Game Flappy San\Game Flappy San\bin\Debug\Game Flappy San.pdb
+C:\Users\ACER\Desktop\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Game Flappy San\Game Flappy San\obj\Debug\Game_Flappy_San.Demo.resources
+C:\Users\ACER\Desktop\Game Flappy San\Game Flappy San\obj\Debug\Game_Flappy_San.Properties.Resources.resources
+C:\Users\ACER\Desktop\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.exe
+C:\Users\ACER\Desktop\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.pdb
+C:\Users\ACER\Desktop\Game Flappy San\Game Flappy San\obj\Debug\Game_Flappy_San.Main.resources
+C:\Users\ACER\Desktop\Game Flappy San\Game Flappy San\obj\Debug\Interop.WMPLib.dll
+C:\Users\ACER\Desktop\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.csproj.ResolveComReference.cache
+C:\Users\ACER\Desktop\Game Flappy San\Game Flappy San\obj\Debug\Game_Flappy_San.Instruction.resources
+C:\Users\Administrator\Downloads\Game Flappy San\Game Flappy San\bin\Debug\Game Flappy San.exe.config
+C:\Users\Administrator\Downloads\Game Flappy San\Game Flappy San\bin\Debug\Game Flappy San.exe
+C:\Users\Administrator\Downloads\Game Flappy San\Game Flappy San\bin\Debug\Game Flappy San.pdb
+C:\Users\Administrator\Downloads\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\Game Flappy San\Game Flappy San\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Downloads\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.csproj.ResolveComReference.cache
+C:\Users\Administrator\Downloads\Game Flappy San\Game Flappy San\obj\Debug\Game_Flappy_San.Demo.resources
+C:\Users\Administrator\Downloads\Game Flappy San\Game Flappy San\obj\Debug\Game_Flappy_San.Instruction.resources
+C:\Users\Administrator\Downloads\Game Flappy San\Game Flappy San\obj\Debug\Game_Flappy_San.Main.resources
+C:\Users\Administrator\Downloads\Game Flappy San\Game Flappy San\obj\Debug\Game_Flappy_San.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.exe
+C:\Users\Administrator\Downloads\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.pdb
+D:\17-NguyenThiDiemMy-GameFlappySan\Game Flappy San\Game Flappy San\obj\Debug\Interop.WMPLib.dll
+D:\17-NguyenThiDiemMy-GameFlappySan\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.csproj.ResolveComReference.cache
+D:\17-NguyenThiDiemMy-GameFlappySan\Game Flappy San\Game Flappy San\obj\Debug\Game_Flappy_San.Demo.resources
+D:\17-NguyenThiDiemMy-GameFlappySan\Game Flappy San\Game Flappy San\obj\Debug\Game_Flappy_San.Instruction.resources
+D:\17-NguyenThiDiemMy-GameFlappySan\Game Flappy San\Game Flappy San\obj\Debug\Game_Flappy_San.Main.resources
+D:\17-NguyenThiDiemMy-GameFlappySan\Game Flappy San\Game Flappy San\obj\Debug\Game_Flappy_San.Properties.Resources.resources
+D:\17-NguyenThiDiemMy-GameFlappySan\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.csproj.GenerateResource.cache
+D:\17-NguyenThiDiemMy-GameFlappySan\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.csproj.CoreCompileInputs.cache
+D:\17-NguyenThiDiemMy-GameFlappySan\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.exe
+D:\17-NguyenThiDiemMy-GameFlappySan\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.pdb
+D:\17-NguyenThiDiemMy-GameFlappySan\Game Flappy San\Game Flappy San\bin\Debug\Game Flappy San.exe.config
+D:\17-NguyenThiDiemMy-GameFlappySan\Game Flappy San\Game Flappy San\bin\Debug\Game Flappy San.exe
+D:\17-NguyenThiDiemMy-GameFlappySan\Game Flappy San\Game Flappy San\bin\Debug\Game Flappy San.pdb
+D:\Game Flappy San\Game Flappy San\bin\Debug\Game Flappy San.exe.config
+D:\Game Flappy San\Game Flappy San\bin\Debug\Game Flappy San.exe
+D:\Game Flappy San\Game Flappy San\bin\Debug\Game Flappy San.pdb
+D:\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.csprojAssemblyReference.cache
+D:\Game Flappy San\Game Flappy San\obj\Debug\Interop.WMPLib.dll
+D:\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.csproj.ResolveComReference.cache
+D:\Game Flappy San\Game Flappy San\obj\Debug\Game_Flappy_San.Demo.resources
+D:\Game Flappy San\Game Flappy San\obj\Debug\Game_Flappy_San.Instruction.resources
+D:\Game Flappy San\Game Flappy San\obj\Debug\Game_Flappy_San.Main.resources
+D:\Game Flappy San\Game Flappy San\obj\Debug\Game_Flappy_San.Properties.Resources.resources
+D:\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.csproj.GenerateResource.cache
+D:\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.csproj.CoreCompileInputs.cache
+D:\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.exe
+D:\Game Flappy San\Game Flappy San\obj\Debug\Game Flappy San.pdb
